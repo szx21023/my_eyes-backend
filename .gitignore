@@ -3,3 +3,5 @@
 *.pt
 *.jpg
 *.png
+
+*.env
